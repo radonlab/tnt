@@ -12,6 +12,7 @@
     "jsnes": "^1.2.1"
   },
   "devDependencies": {
-    "vite": "^6.0.5"
+    "vite": "^6.0.5",
+    "vite-plugin-commonjs": "^0.10.4"
   }
 }
